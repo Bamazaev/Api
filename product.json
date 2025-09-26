@@ -2,11 +2,7 @@
   {
     "id": 1001,
     "name": "Салат Греческий",
-    "price": {
-      "amount": 5.20,
-      "currency": "TJS",
-      "display": "5 сом 20 дирам"
-    },
+    "price": "5 сом 20 дирам",
     "barcode": "6260100605305",
     "stock": 5,
     "stock_display": "Осталось: 5",
@@ -14,16 +10,12 @@
     "in_cart_display": "В корзине: 2",
     "expiration_date": "2025-09-10",
     "category_id": 1,
-    "image_url": "https://private-user-images.githubusercontent.com/154230289/494384521-8476f568-c0fc-4724-bd83-bd9a17fda5ee.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4ODU4OTQsIm5iZiI6MTc1ODg4NTU5NCwicGF0aCI6Ii8xNTQyMzAyODkvNDk0Mzg0NTIxLTg0NzZmNTY4LWMwZmMtNDcyNC1iZDgzLWJkOWExN2ZkYTVlZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyNlQxMTE5NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MmMzNWZiZjcyNmUyNTgzODc2YWRiODE1OGRiN2VkZGI5ZTU0Mjg1YjcxMDUyYjNhM2RiNzUzMjMwOTcwODBlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.elo04LXh0a2ybB68_M5rvYlQleoPhWx3zURtzs2PS1Y"
+    "image_url": "https://private-user-images.githubusercontent.com/154230289/494384521-8476f568-c0fc-4724-bd83-bd9a17fda5ee.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4ODYxOTUsIm5iZiI6MTc1ODg4NTg5NSwicGF0aCI6Ii8xNTQyMzAyODkvNDk0Mzg0NTIxLTg0NzZmNTY4LWMwZmMtNDcyNC1iZDgzLWJkOWExN2ZkYTVlZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyNlQxMTI0NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYTRmNjlkOTIzOGQ0MWY5ZWU4ZTgxMmEyZjM2OWJjMDcwMGExODQ1NjZkMTA1YWYzZDYzZWE0ODc5MzA3ZjhhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.nbFN0zR50I-9CFX3Lh-C7E7kaOKcILKdusvWV1apOkA"
   },
   {
     "id": 1002,
     "name": "Суп Борщ",
-    "price": {
-      "amount": 8.50,
-      "currency": "TJS",
-      "display": "8 сом 50 дирам"
-    },
+    "price": "8 сом 50 дирам",
     "barcode": "6260100605306",
     "stock": 10,
     "stock_display": "Осталось: 10",
@@ -36,11 +28,7 @@
   {
     "id": 1003,
     "name": "Пицца Маргарита",
-    "price": {
-      "amount": 25.00,
-      "currency": "TJS",
-      "display": "25 сом"
-    },
+    "price": "25 сом",
     "barcode": "6260100605307",
     "stock": 3,
     "stock_display": "Осталось: 3",
@@ -53,11 +41,7 @@
   {
     "id": 1004,
     "name": "Шашлык из курицы",
-    "price": {
-      "amount": 18.00,
-      "currency": "TJS",
-      "display": "18 сом"
-    },
+    "price": "18 сом",
     "barcode": "6260100605308",
     "stock": 7,
     "stock_display": "Осталось: 7",
@@ -70,11 +54,7 @@
   {
     "id": 1005,
     "name": "Хлеб белый",
-    "price": {
-      "amount": 3.00,
-      "currency": "TJS",
-      "display": "3 сом"
-    },
+    "price": "3 сом",
     "barcode": "6260100605309",
     "stock": 20,
     "stock_display": "Осталось: 20",
@@ -87,11 +67,7 @@
   {
     "id": 1006,
     "name": "Молоко 1л",
-    "price": {
-      "amount": 6.50,
-      "currency": "TJS",
-      "display": "6 сом 50 дирам"
-    },
+    "price": "6 сом 50 дирам",
     "barcode": "6260100605310",
     "stock": 12,
     "stock_display": "Осталось: 12",
@@ -104,11 +80,7 @@
   {
     "id": 1007,
     "name": "Яблоко красное",
-    "price": {
-      "amount": 4.20,
-      "currency": "TJS",
-      "display": "4 сом 20 дирам"
-    },
+    "price": "4 сом 20 дирам",
     "barcode": "6260100605311",
     "stock": 30,
     "stock_display": "Осталось: 30",
@@ -121,11 +93,7 @@
   {
     "id": 1008,
     "name": "Сыр Российский",
-    "price": {
-      "amount": 35.00,
-      "currency": "TJS",
-      "display": "35 сом"
-    },
+    "price": "35 сом",
     "barcode": "6260100605312",
     "stock": 4,
     "stock_display": "Осталось: 4",
@@ -138,11 +106,7 @@
   {
     "id": 1009,
     "name": "Шоколад Аленка",
-    "price": {
-      "amount": 9.90,
-      "currency": "TJS",
-      "display": "9 сом 90 дирам"
-    },
+    "price": "9 сом 90 дирам",
     "barcode": "6260100605313",
     "stock": 15,
     "stock_display": "Осталось: 15",
@@ -155,11 +119,7 @@
   {
     "id": 1010,
     "name": "Вода Бонаква 1.5л",
-    "price": {
-      "amount": 2.80,
-      "currency": "TJS",
-      "display": "2 сом 80 дирам"
-    },
+    "price": "2 сом 80 дирам",
     "barcode": "6260100605314",
     "stock": 25,
     "stock_display": "Осталось: 25",
