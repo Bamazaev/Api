@@ -2,111 +2,331 @@
   {
     "id": 1,
     "name": "Бургер Классический",
-    "price": "18 сом",
-    "barcode": "6260100605401",
+    "price": 18,
+    "barcode": "6260100606001",
     "stock": 12,
     "in_cart": 2,
     "expiration_date": "2025-09-15",
     "category_id": 1,
-    "image_url": "https://private-user-images.githubusercontent.com/154230289/494386842-59407909-0e83-42c9-9503-b0bc0c4ae1f8.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4OTU4NzMsIm5iZiI6MTc1ODg5NTU3MywicGF0aCI6Ii8xNTQyMzAyODkvNDk0Mzg2ODQyLTU5NDA3OTA5LTBlODMtNDJjOS05NTAzLWIwYmMwYzRhZTFmOC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyNlQxNDA2MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mM2EyNzBmNGM1ZWQ4YThjZmU3NzQ1Y2I1MGVmMDMxYjZlY2YzNTk5OTk2ODRhODg2ZjRiYWRjNjRjN2Q5Njg4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.dzTtON4q9RBO3yBi3OqmeZ9Z2_ilTWc4w8G3qTu6PvM"
+    "image_url": "https://source.unsplash.com/800x600/?burger"
   },
   {
     "id": 2,
     "name": "Пицца Маргарита",
-    "price": "25 сом",
-    "barcode": "6260100605402",
+    "price": 25,
+    "barcode": "6260100606002",
     "stock": 5,
     "in_cart": 1,
     "expiration_date": "2025-09-20",
     "category_id": 2,
-    "image_url": "https://private-user-images.githubusercontent.com/154230289/494387028-76c4fa30-e4e0-4a3d-a9aa-07d25c0b1e2e.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4ODcxMzAsIm5iZiI6MTc1ODg4NjgzMCwicGF0aCI6Ii8xNTQyMzAyODkvNDk0Mzg3MDI4LTc2YzRmYTMwLWU0ZTAtNGEzZC1hOWFhLTA3ZDI1YzBiMWUyZS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyNlQxMTQwMzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZTI5Njg0ZTg2Y2NlYzQ5MGU3YmY5NmZhODg2ZWM0YmI0MDU1NTlmMjM5NThkZmIwYjlhODVlNDU5NmQ3OTkyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.sdDI-NzzL1YRV6to-RR4F4rfteZIy59MtCNLrR1DHBw"
+    "image_url": "https://source.unsplash.com/800x600/?pizza&sig=2"
   },
   {
     "id": 3,
     "name": "Пицца Пепперони",
-    "price": "28 сом",
-    "barcode": "6260100605403",
+    "price": 28,
+    "barcode": "6260100606003",
     "stock": 7,
     "in_cart": 0,
     "expiration_date": "2025-09-22",
     "category_id": 2,
-    "image_url": "https://private-user-images.githubusercontent.com/154230289/494387076-90b3fefa-ecf9-4618-a203-59e3bd947a79.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4ODcxNDEsIm5iZiI6MTc1ODg4Njg0MSwicGF0aCI6Ii8xNTQyMzAyODkvNDk0Mzg3MDc2LTkwYjNmZWZhLWVjZjktNDYxOC1hMjAzLTU5ZTNiZDk0N2E3OS53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDkyNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA5MjZUMTE0MDQxWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZDFhYzZhNTIwMjQ1NWI5ZGE1NDdmMGFjODVlYTFmMjMwZmZjNWY4NDdkMGYzYTY1ZWQxZGYwZmE2OGUzM2Q4MSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.XJsjsj0yi6vC7GuvCO2ga3pvp4v1jR4Qxmyyai8oX84"
+    "image_url": "https://source.unsplash.com/800x600/?pepperoni-pizza&sig=3"
   },
   {
     "id": 4,
     "name": "Пицца Четыре Сыра",
-    "price": "32 сом",
-    "barcode": "6260100605404",
+    "price": 32,
+    "barcode": "6260100606004",
     "stock": 3,
     "in_cart": 2,
     "expiration_date": "2025-09-25",
     "category_id": 2,
-    "image_url": "https://private-user-images.githubusercontent.com/154230289/494387099-c9b5b3c0-d995-41ca-ac15-fe5a3f38bffd.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4ODcxOTEsIm5iZiI6MTc1ODg4Njg5MSwicGF0aCI6Ii8xNTQyMzAyODkvNDk0Mzg3MDk5LWM5YjViM2MwLWQ5OTUtNDFjYS1hYzE1LWZlNWEzZjM4YmZmZC53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDkyNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA5MjZUMTE0MTMxWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MWM4MGFjZWFjNGVmMzE1NDQ2ZDhhZGE3M2RlMzM5OWZlOThkOTJhNmM5YjdiY2JjODk0MjQ3NGFjZmU3ZmI4ZiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.P8kTdu9kOj1VbEY7dc3ULJ4EU9qtCaM1WHpiEz1pqgA"
+    "image_url": "https://source.unsplash.com/800x600/?four-cheese-pizza&sig=4"
   },
   {
     "id": 5,
     "name": "Пицца Гавайская",
-    "price": "27 сом",
-    "barcode": "6260100605405",
+    "price": 27,
+    "barcode": "6260100606005",
     "stock": 8,
     "in_cart": 1,
     "expiration_date": "2025-09-18",
     "category_id": 2,
-    "image_url": "https://private-user-images.githubusercontent.com/154230289/494387135-c7511f5e-8e4c-4db5-84ec-be8d6cf46c5a.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4ODcyMTksIm5iZiI6MTc1ODg4NjkxOSwicGF0aCI6Ii8xNTQyMzAyODkvNDk0Mzg3MTM1LWM3NTExZjVlLThlNGMtNGRiNS04NGVjLWJlOGQ2Y2Y0NmM1YS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyNlQxMTQxNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMDk3NTc3OWUxYWY1N2ZlMmM1YzAyMmU4MDgxYTc3MmNmYzViZjBmNTY3ZDI2Y2ZhMzc0MDY5NWVhOGU2NjIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.36kOMwJbkK3xb6z8DeThfB4bWDcAss0-wWeb2e7GAVc"
+    "image_url": "https://source.unsplash.com/800x600/?hawaiian-pizza&sig=5"
   },
   {
     "id": 6,
     "name": "Пицца Вегетарианская",
-    "price": "24 сом",
-    "barcode": "6260100605406",
+    "price": 24,
+    "barcode": "6260100606006",
     "stock": 10,
     "in_cart": 0,
     "expiration_date": "2025-09-19",
     "category_id": 2,
-    "image_url": "https://private-user-images.githubusercontent.com/154230289/494387191-10905529-3c84-4be1-85c3-05953de5990a.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4ODcyNjAsIm5iZiI6MTc1ODg4Njk2MCwicGF0aCI6Ii8xNTQyMzAyODkvNDk0Mzg3MTkxLTEwOTA1NTI5LTNjODQtNGJlMS04NWMzLTA1OTUzZGU1OTkwYS53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDkyNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA5MjZUMTE0MjQwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YWM5ZWI3OTRmMWU5OTQ0ZGU5OGZjN2NmNzFkZTY4NWE3MjZjMjkyNzkzNDk2YWU4ZDE3MTIxYzRlMTYwZmQ4YiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.Sq-mRsyyuWdhzmeU6NLjdB9Lu5hnrdhfNSrkRbNr7LI"
+    "image_url": "https://source.unsplash.com/800x600/?vegetarian-pizza&sig=6"
   },
   {
     "id": 7,
     "name": "Пицца Барбекю",
-    "price": "30 сом",
-    "barcode": "6260100605407",
+    "price": 30,
+    "barcode": "6260100606007",
     "stock": 6,
     "in_cart": 3,
     "expiration_date": "2025-09-21",
     "category_id": 2,
-    "image_url": "https://private-user-images.githubusercontent.com/154230289/494387313-dfe04544-15b8-48f0-923f-73498d12cfde.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4ODcyODQsIm5iZiI6MTc1ODg4Njk4NCwicGF0aCI6Ii8xNTQyMzAyODkvNDk0Mzg3MzEzLWRmZTA0NTQ0LTE1YjgtNDhmMC05MjNmLTczNDk4ZDEyY2ZkZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyNlQxMTQzMDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMTcxODUxNGYyNDdmOGNjNzgyMmY3NzRlYzNmNTE0MTA3NjBlYTQ2ZmY4MzRkZTNmMGUyZDUxZTY1ZjlmZGExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.PVp_X4fv9qWQbe01AqjmpKMDnlbwxUedA-Ts4phPt9E"
+    "image_url": "https://source.unsplash.com/800x600/?bbq-pizza&sig=7"
   },
   {
     "id": 8,
     "name": "Пицца Мясная",
-    "price": "33 сом",
-    "barcode": "6260100605408",
+    "price": 33,
+    "barcode": "6260100606008",
     "stock": 4,
     "in_cart": 2,
     "expiration_date": "2025-09-24",
     "category_id": 2,
-    "image_url": "https://private-user-images.githubusercontent.com/154230289/494387624-72dab680-6d3e-46cc-a462-e3542b1a270b.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4ODczMDcsIm5iZiI6MTc1ODg4NzAwNywicGF0aCI6Ii8xNTQyMzAyODkvNDk0Mzg3NjI0LTcyZGFiNjgwLTZkM2UtNDZjYy1hNDYyLWUzNTQyYjFhMjcwYi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDkyNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA5MjZUMTE0MzI3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MzEwM2M0MGNiMDA5MGI3YTk2ZGQwMzUxZjg5NzY0ODc1M2MzMTRjODc5ZDg2ZmVlMDI3MTQ5Nzg1ZDNmNDA2NCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.jMv5DNHQwkWctaoXUQOsodZeMorII6UvsI8Gicnp3Xc"
+    "image_url": "https://source.unsplash.com/800x600/?meat-pizza&sig=8"
   },
   {
     "id": 9,
     "name": "Пицца Диабло",
-    "price": "29 сом",
-    "barcode": "6260100605409",
+    "price": 29,
+    "barcode": "6260100606009",
     "stock": 9,
     "in_cart": 0,
     "expiration_date": "2025-09-28",
     "category_id": 2,
-    "image_url": "https://private-user-images.githubusercontent.com/154230289/494387824-08fa0a8c-cc83-4348-be59-4ae152bd4341.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4ODczMzEsIm5iZiI6MTc1ODg4NzAzMSwicGF0aCI6Ii8xNTQyMzAyODkvNDk0Mzg3ODI0LTA4ZmEwYThjLWNjODMtNDM0OC1iZTU5LTRhZTE1MmJkNDM0MS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyNlQxMTQzNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NWNjYTRjMGExYjllMjc5MDFkMDBmMDQ0ODM3NDNkYWM5YTQyMTM1NmZjMmRkYzgyZTI3NGE3MTAwNWUzNTIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.YRk31zav5XY4rEcElDUfLAxW28XNi743w_fTJcbXRn4"
+    "image_url": "https://source.unsplash.com/800x600/?spicy-pizza&sig=9"
   },
   {
     "id": 10,
     "name": "Пицца С морепродуктами",
-    "price": "35 сом",
-    "barcode": "6260100605410",
+    "price": 35,
+    "barcode": "6260100606010",
     "stock": 5,
     "in_cart": 1,
     "expiration_date": "2025-09-30",
     "category_id": 2,
-    "image_url": "https://private-user-images.githubusercontent.com/154230289/494388057-73770ee7-3b94-428c-becd-900ece5a2a7e.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4ODcwOTcsIm5iZiI6MTc1ODg4Njc5NywicGF0aCI6Ii8xNTQyMzAyODkvNDk0Mzg4MDU3LTczNzcwZWU3LTNiOTQtNDI4Yy1iZWNkLTkwMGVjZTVhMmE3ZS53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDkyNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA5MjZUMTEzOTU3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YTA1MGYzOWFjMzA3YWIwNjdhNWUzOGUxMzVkZmI5ZDJjZDA2N2UwZWRlZjU3MDdjMTg1ODA3NDM0OTAxNTNkNyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.wZBVLozI3jhmdMFTIY2o1P2a_hTxBTbsHQN7hTCqGOE"
+    "image_url": "https://source.unsplash.com/800x600/?seafood-pizza&sig=10"
+  },
+  {
+    "id": 11,
+    "name": "Пицца Тоскана",
+    "price": 31,
+    "barcode": "6260100606011",
+    "stock": 6,
+    "in_cart": 0,
+    "expiration_date": "2025-10-02",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?toscana-pizza&sig=11"
+  },
+  {
+    "id": 12,
+    "name": "Пицца С грибами",
+    "price": 26,
+    "barcode": "6260100606012",
+    "stock": 7,
+    "in_cart": 1,
+    "expiration_date": "2025-10-05",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?mushroom-pizza&sig=12"
+  },
+  {
+    "id": 13,
+    "name": "Пицца С курицей",
+    "price": 28,
+    "barcode": "6260100606013",
+    "stock": 8,
+    "in_cart": 0,
+    "expiration_date": "2025-10-07",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?chicken-pizza&sig=13"
+  },
+  {
+    "id": 14,
+    "name": "Пицца С тунцом",
+    "price": 29,
+    "barcode": "6260100606014",
+    "stock": 5,
+    "in_cart": 2,
+    "expiration_date": "2025-10-09",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?tuna-pizza&sig=14"
+  },
+  {
+    "id": 15,
+    "name": "Пицца С беконом",
+    "price": 30,
+    "barcode": "6260100606015",
+    "stock": 4,
+    "in_cart": 1,
+    "expiration_date": "2025-10-11",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?bacon-pizza&sig=15"
+  },
+  {
+    "id": 16,
+    "name": "Пицца С анчоусами",
+    "price": 34,
+    "barcode": "6260100606016",
+    "stock": 3,
+    "in_cart": 0,
+    "expiration_date": "2025-10-13",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?anchovy-pizza&sig=16"
+  },
+  {
+    "id": 17,
+    "name": "Пицца Сырная Премиум",
+    "price": 36,
+    "barcode": "6260100606017",
+    "stock": 2,
+    "in_cart": 0,
+    "expiration_date": "2025-10-15",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?premium-cheese-pizza&sig=17"
+  },
+  {
+    "id": 18,
+    "name": "Пицца Овощная",
+    "price": 23,
+    "barcode": "6260100606018",
+    "stock": 10,
+    "in_cart": 2,
+    "expiration_date": "2025-10-17",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?vegetable-pizza&sig=18"
+  },
+  {
+    "id": 19,
+    "name": "Пицца С луком",
+    "price": 24,
+    "barcode": "6260100606019",
+    "stock": 9,
+    "in_cart": 0,
+    "expiration_date": "2025-10-19",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?onion-pizza&sig=19"
+  },
+  {
+    "id": 20,
+    "name": "Пицца Пармезан",
+    "price": 32,
+    "barcode": "6260100606020",
+    "stock": 6,
+    "in_cart": 1,
+    "expiration_date": "2025-10-21",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?parmesan-pizza&sig=20"
+  },
+  {
+    "id": 21,
+    "name": "Пицца Соус Спайси",
+    "price": 29,
+    "barcode": "6260100606021",
+    "stock": 7,
+    "in_cart": 0,
+    "expiration_date": "2025-10-23",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?spicy-sauce-pizza&sig=21"
+  },
+  {
+    "id": 22,
+    "name": "Пицца Бекон и Грибы",
+    "price": 31,
+    "barcode": "6260100606022",
+    "stock": 5,
+    "in_cart": 0,
+    "expiration_date": "2025-10-25",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?bacon-mushroom-pizza&sig=22"
+  },
+  {
+    "id": 23,
+    "name": "Пицца Песто",
+    "price": 30,
+    "barcode": "6260100606023",
+    "stock": 8,
+    "in_cart": 1,
+    "expiration_date": "2025-10-27",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?pesto-pizza&sig=23"
+  },
+  {
+    "id": 24,
+    "name": "Пицца С копченостями",
+    "price": 33,
+    "barcode": "6260100606024",
+    "stock": 4,
+    "in_cart": 0,
+    "expiration_date": "2025-10-29",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?smoked-meat-pizza&sig=24"
+  },
+  {
+    "id": 25,
+    "name": "Пицца С томатами",
+    "price": 26,
+    "barcode": "6260100606025",
+    "stock": 11,
+    "in_cart": 2,
+    "expiration_date": "2025-10-31",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?tomato-pizza&sig=25"
+  },
+  {
+    "id": 26,
+    "name": "Пицца Рикотта",
+    "price": 34,
+    "barcode": "6260100606026",
+    "stock": 3,
+    "in_cart": 0,
+    "expiration_date": "2025-11-02",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?ricotta-pizza&sig=26"
+  },
+  {
+    "id": 27,
+    "name": "Пицца С базиликом",
+    "price": 28,
+    "barcode": "6260100606027",
+    "stock": 9,
+    "in_cart": 1,
+    "expiration_date": "2025-11-04",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?basil-pizza&sig=27"
+  },
+  {
+    "id": 28,
+    "name": "Пицца С лимоном",
+    "price": 29,
+    "barcode": "6260100606028",
+    "stock": 6,
+    "in_cart": 0,
+    "expiration_date": "2025-11-06",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?lemon-pizza&sig=28"
+  },
+  {
+    "id": 29,
+    "name": "Пицца Острая Сырная",
+    "price": 30,
+    "barcode": "6260100606029",
+    "stock": 5,
+    "in_cart": 0,
+    "expiration_date": "2025-11-08",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?hot-cheese-pizza&sig=29"
+  },
+  {
+    "id": 30,
+    "name": "Пицца Домашняя",
+    "price": 22,
+    "barcode": "6260100606030",
+    "stock": 14,
+    "in_cart": 2,
+    "expiration_date": "2025-11-10",
+    "category_id": 2,
+    "image_url": "https://source.unsplash.com/800x600/?homemade-pizza&sig=30"
   }
 ]
