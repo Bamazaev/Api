@@ -8,7 +8,7 @@
     "in_cart": 2,
     "expiration_date": "2025-09-15",
     "category_id": 1,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "in_cart": 1,
     "expiration_date": "2025-09-20",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "in_cart": 0,
     "expiration_date": "2025-09-22",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "in_cart": 2,
     "expiration_date": "2025-09-25",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "in_cart": 1,
     "expiration_date": "2025-09-18",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "in_cart": 1,
     "expiration_date": "2025-09-28",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
     "in_cart": 0,
     "expiration_date": "2025-10-01",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
     "in_cart": 2,
     "expiration_date": "2025-09-30",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "in_cart": 1,
     "expiration_date": "2025-09-29",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 10,
@@ -107,226 +107,116 @@
     "in_cart": 2,
     "expiration_date": "2025-09-27",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 11,
-    "name": "Пицца С грибами",
-    "price": 22,
+    "name": "Пицца Тонно",
+    "price": 33,
     "barcode": "6260100606011",
-    "stock": 8,
+    "stock": 5,
     "in_cart": 0,
-    "expiration_date": "2025-09-26",
+    "expiration_date": "2025-10-05",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 12,
-    "name": "Пицца С курицей",
-    "price": 27,
+    "name": "Пицца Чикен Ранч",
+    "price": 29,
     "barcode": "6260100606012",
-    "stock": 12,
-    "in_cart": 3,
-    "expiration_date": "2025-09-29",
+    "stock": 7,
+    "in_cart": 1,
+    "expiration_date": "2025-10-07",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 13,
-    "name": "Пицца С беконом",
-    "price": 29,
+    "name": "Пицца Суприм",
+    "price": 34,
     "barcode": "6260100606013",
-    "stock": 5,
-    "in_cart": 2,
-    "expiration_date": "2025-09-28",
+    "stock": 6,
+    "in_cart": 0,
+    "expiration_date": "2025-10-10",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 14,
     "name": "Пицца Мексиканская",
-    "price": 30,
+    "price": 28,
     "barcode": "6260100606014",
     "stock": 9,
-    "in_cart": 1,
-    "expiration_date": "2025-09-30",
+    "in_cart": 2,
+    "expiration_date": "2025-10-11",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 15,
-    "name": "Пицца С морепродуктами",
-    "price": 35,
+    "name": "Пицца Песто",
+    "price": 27,
     "barcode": "6260100606015",
-    "stock": 4,
-    "in_cart": 0,
-    "expiration_date": "2025-10-02",
+    "stock": 8,
+    "in_cart": 1,
+    "expiration_date": "2025-10-13",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 16,
-    "name": "Пицца С ветчиной",
-    "price": 26,
+    "name": "Пицца Морская",
+    "price": 36,
     "barcode": "6260100606016",
-    "stock": 10,
-    "in_cart": 1,
-    "expiration_date": "2025-09-27",
+    "stock": 4,
+    "in_cart": 0,
+    "expiration_date": "2025-10-14",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 17,
-    "name": "Пицца Деревенская",
-    "price": 28,
+    "name": "Пицца Филадельфия",
+    "price": 35,
     "barcode": "6260100606017",
-    "stock": 7,
+    "stock": 5,
     "in_cart": 2,
-    "expiration_date": "2025-09-28",
+    "expiration_date": "2025-10-16",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 18,
-    "name": "Пицца Маринара",
-    "price": 23,
+    "name": "Пицца Сырная",
+    "price": 26,
     "barcode": "6260100606018",
-    "stock": 6,
-    "in_cart": 0,
-    "expiration_date": "2025-09-25",
+    "stock": 10,
+    "in_cart": 1,
+    "expiration_date": "2025-10-18",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 19,
-    "name": "Пицца С шпинатом",
-    "price": 27,
+    "name": "Пицца Грибная",
+    "price": 23,
     "barcode": "6260100606019",
-    "stock": 11,
-    "in_cart": 1,
-    "expiration_date": "2025-09-29",
+    "stock": 9,
+    "in_cart": 0,
+    "expiration_date": "2025-10-19",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   },
   {
     "id": 20,
-    "name": "Пицца Песто",
-    "price": 29,
+    "name": "Пицца Карбонара",
+    "price": 31,
     "barcode": "6260100606020",
-    "stock": 8,
-    "in_cart": 2,
-    "expiration_date": "2025-09-30",
-    "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
-  },
-  {
-    "id": 21,
-    "name": "Пицца Чили",
-    "price": 28,
-    "barcode": "6260100606021",
-    "stock": 5,
-    "in_cart": 0,
-    "expiration_date": "2025-09-27",
-    "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
-  },
-  {
-    "id": 22,
-    "name": "Пицца Болонья",
-    "price": 31,
-    "barcode": "6260100606022",
-    "stock": 9,
-    "in_cart": 1,
-    "expiration_date": "2025-09-29",
-    "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
-  },
-  {
-    "id": 23,
-    "name": "Пицца Трюфельная",
-    "price": 36,
-    "barcode": "6260100606023",
-    "stock": 4,
-    "in_cart": 0,
-    "expiration_date": "2025-10-01",
-    "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
-  },
-  {
-    "id": 24,
-    "name": "Пицца С беконом и грибами",
-    "price": 30,
-    "barcode": "6260100606024",
-    "stock": 7,
-    "in_cart": 2,
-    "expiration_date": "2025-09-30",
-    "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
-  },
-  {
-    "id": 25,
-    "name": "Пицца Альфредо",
-    "price": 32,
-    "barcode": "6260100606025",
     "stock": 6,
-    "in_cart": 1,
-    "expiration_date": "2025-09-28",
-    "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
-  },
-  {
-    "id": 26,
-    "name": "Пицца С тунцом",
-    "price": 29,
-    "barcode": "6260100606026",
-    "stock": 10,
-    "in_cart": 0,
-    "expiration_date": "2025-09-29",
-    "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
-  },
-  {
-    "id": 27,
-    "name": "Пицца С сосисками",
-    "price": 26,
-    "barcode": "6260100606027",
-    "stock": 12,
-    "in_cart": 1,
-    "expiration_date": "2025-09-27",
-    "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
-  },
-  {
-    "id": 28,
-    "name": "Пицца Чикен Ранч",
-    "price": 31,
-    "barcode": "6260100606028",
-    "stock": 8,
     "in_cart": 2,
-    "expiration_date": "2025-09-30",
+    "expiration_date": "2025-10-21",
     "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
-  },
-  {
-    "id": 29,
-    "name": "Пицца С овощами",
-    "price": 23,
-    "barcode": "6260100606029",
-    "stock": 11,
-    "in_cart": 1,
-    "expiration_date": "2025-09-29",
-    "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
-  },
-  {
-    "id": 30,
-    "name": "Пицца Делюкс",
-    "price": 34,
-    "barcode": "6260100606030",
-    "stock": 5,
-    "in_cart": 0,
-    "expiration_date": "2025-10-02",
-    "category_id": 2,
-    "image_url": "https://drive.google.com/file/d/1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85/view?usp=drive_link"
+    "image_url": "https://drive.google.com/uc?export=view&id=1j8Fodaw-YNS4RBv27zOvnTYSfMhabp85"
   }
 ]
